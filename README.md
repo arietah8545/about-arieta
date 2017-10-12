@@ -1,4 +1,5 @@
 ## Arieta Haskaj  
+[Link to my Github](www.github.com/arietah8545)  
 _Student_  
 High School of Telecommunications Arts and Technology  
 arietah8545@hstat.org
@@ -14,3 +15,7 @@ My name is **Arieta** and I was born on September 7, 2001. I am from Brooklyn, N
     6) AP Calc  
     7) SEP  
     8) Forensics  
+    
+### Hobbies:
+*Watching TV  
+ *The Flash
