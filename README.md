@@ -6,6 +6,8 @@ arietah8545@hstat.org
 ### Biography
 My name is **Arieta** and I was born on September 7, 2001. I am from Brooklyn, New York.  
 
+---
+
 ### Schedule:  
     1) Spanish  
     2) Play Productions  
@@ -17,5 +19,7 @@ My name is **Arieta** and I was born on September 7, 2001. I am from Brooklyn, N
     8) Forensics  
     
 ### Hobbies:
-*Watching TV  
- *The Flash
+    *Watching TV  
+        *The Flash
+    *Singing
+    *Acting
