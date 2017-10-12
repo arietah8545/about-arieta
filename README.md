@@ -1,5 +1,5 @@
 ## Arieta Haskaj  
-[Link to my Github](www.github.com/arietah8545)  
+[Link to my Portfolio](https://sites.google.com/a/hstat.org/arietah8545sep11/)  
 _Student_  
 High School of Telecommunications Arts and Technology  
 arietah8545@hstat.org
