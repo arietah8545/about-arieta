@@ -1,8 +1,8 @@
 ## Arieta Haskaj  
 [Link to my Portfolio](https://sites.google.com/a/hstat.org/arietah8545sep11/)  
 _Student_  
-High School of Telecommunications Arts and Technology  
-arietah8545@hstat.org
+High School of Telecommunications Arts and Technology    
+If you would like to contact me, email me at: arietah8545@hstat.org
 ### Biography
 My name is **Arieta** and I was born on September 7, 2001. I am from Brooklyn, New York.  
 
